@@ -1,3 +1,5 @@
+fiqh.cc
+
 - Set Windows title
 	- Edit 'windows\runner\main.cpp'
 	- Replace the title in 'window.Create(...'
